@@ -1,5 +1,5 @@
 # You Can Stalk Me
-## Twitch removed the friends functionality, let's create it again! 🔥🦅🔥
+## 🔥🦅🔥 Twitch removed the friends functionality, let's create it again! 🔥🦅🔥
 You Can Stalk Me is a series of tools that helps you strengthen your community while you are not streaming.
 
 ## Feature 1 : Privacy first!
